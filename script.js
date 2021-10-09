@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-$(document).ready(function () {
-  var key = 'AIzaSyDolGhoaPsFSYHDaT93tYWbJPhSKfQNiGM'
-=======
 
 $(document).ready(function () {
-  var key = 'key here'
->>>>>>> b79d9f2a1bcbf61fbd04d7ad7e14e96fd0630034
+  var key = 'AIzaSyDolGhoaPsFSYHDaT93tYWbJPhSKfQNiGM'
   var playlistId = 'PL2fnLUTsNyq7A335zB_RpOzu7hEUcSJbB'
   var URL = 'https://www.googleapis.com/youtube/v3/playlistItems'
 
